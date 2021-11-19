@@ -1,0 +1,17 @@
+.drop-down {
+    display: flex;;
+    margin-top:50px;
+    justify-content: center;
+}
+
+
+.cards {
+    margin-top:100px;
+    margin-right:30px;
+    margin-left:30px;
+}
+
+body {
+    background-color:white;
+}
+
