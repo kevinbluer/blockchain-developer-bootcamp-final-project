@@ -1,4 +1,4 @@
-
+# Final Project: Multi-Signature wallet
 ## Project Description: 
 #### Multi-Signature smart contract wallet for ethereum accounts. The wallet lets you send and receive ether, set a minimum quorum (signatures of owners) to execute transactions and shows you the most basic information. 
 
