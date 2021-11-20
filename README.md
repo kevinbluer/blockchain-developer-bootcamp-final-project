@@ -10,4 +10,10 @@
 
 #### https://multi-signature.netlify.app/
 
+## USE:
+
+#### To interact with the application, just go to:  https://multi-signature.netlify.app/
+#### For the test cases go to the "wallet" folder and follow the instructions on the Readme file.
+
+
 ### ENS ADDRESS FOR NFT CERTIFICATE: polipic.eth
