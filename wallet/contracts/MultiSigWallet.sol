@@ -235,6 +235,7 @@ contract MultiSigWallet {
         UpdateQuorum storage uq = updateQuorum[_index];
         require(!uq._approved, "Transaction already approved");
         uq._signatures += 1;
+        //SWC-115 --> we protect from tx.origin
         updateQuorumSigners[msg.sender][_index] = true;
         if (uq._signatures >= quorum) {
             emit NewQuorum(quorum,uq._quorum, msg.sender, "Quorum got updated");
