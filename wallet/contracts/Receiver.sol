@@ -15,7 +15,8 @@ contract Receiver {
 
     function returnTracking(address _owner) 
             external 
-            view returns (address[] memory)
+            view 
+            returns (address[] memory)
     {
         return tracking[_owner];
     }
