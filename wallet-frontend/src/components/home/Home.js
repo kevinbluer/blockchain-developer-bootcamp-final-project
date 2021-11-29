@@ -31,6 +31,9 @@ const Home = () => {
             <div className="button">
                 <Button variant="primary" onClick={connectWallet}>{button}</Button>
             </div>
+            <div className="text-home">
+                <h2>Please, be sure to be connected in RINKEBY</h2>
+            </div>
             <div className="Home">
               {connected}
             </div>

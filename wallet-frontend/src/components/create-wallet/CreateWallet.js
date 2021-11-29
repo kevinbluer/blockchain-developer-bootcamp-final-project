@@ -104,6 +104,9 @@ const CreateWallet = () => {
     
     return (
         <div>
+            <div className="text">
+                <h2>Please, be sure to be connected in RINKEBY</h2>
+            </div>
             <Cards
                 title1="Create a Multi Signature Wallet"
                 text1="Requirements: *Minimum 1 owner and 1 quorum. *Owners need to be more than or equal to the quorum"
