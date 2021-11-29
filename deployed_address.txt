@@ -1,0 +1,4 @@
+Each smart contract safe has its own unique address, but a reference address can be found here:
+
+Network: Rinkeby
+Safe Address: 0x40c7B72B44CD297D61F684718fe053f1949037bf
