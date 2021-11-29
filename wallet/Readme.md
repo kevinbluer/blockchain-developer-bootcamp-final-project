@@ -1,5 +1,5 @@
 ## Overview:
-#### Multi-Sig ethereum smart contract wallet. Every time the user creates a safe from the fronted, a new contract will be created, therefore a new address will be created as well. The main logic resides under the contract's folder --> "MultiSig.sol"
+#### Multi-Sig ethereum smart contract wallet. Every time the user creates a safe from the fronted, a new contract will be created, therefore a new address will be created as well. The main logic resides under the contract's folder --> "MultiSigWallet.sol"
 
 
 
