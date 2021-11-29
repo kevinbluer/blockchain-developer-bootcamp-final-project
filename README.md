@@ -6,6 +6,9 @@
 
 #### The smart contracts and test cases can be found inside of the "wallet" folder.
 
+## Basic Flow:
+### You enter to the main home and get prompt two options: 1. Create a Safe 2. Already have a safe. If you choose the first option, you will create your own multi-sig walllet with some important arguments like, how many owners ?, minimum require signatures to confirm a transaction etc.. If you already have a safe, you choose the second option (you can create multiple safes), inside of the second option, you will find basic multi-sig features like, submit a transaction, change owners, update the quorum etc... In order to approve the transactions, you first need to submit the transaction and then it needs to be approved given the number of signatures is equal to or greater than the quorum. n > m.
+
 ## Public web-site: 
 
 #### https://multi-signature.netlify.app/
